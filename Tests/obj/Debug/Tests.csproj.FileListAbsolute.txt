@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\RES\Tests\bin\Debug\Tests.exe.config
+C:\Users\Lenovo\source\repos\RES\Tests\bin\Debug\Tests.exe
+C:\Users\Lenovo\source\repos\RES\Tests\bin\Debug\Tests.pdb
+C:\Users\Lenovo\source\repos\RES\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RES\Tests\obj\Debug\Tests.exe
+C:\Users\Lenovo\source\repos\RES\Tests\obj\Debug\Tests.pdb
+C:\Users\Lenovo\source\repos\RES\Tests\obj\Debug\Tests.csprojAssemblyReference.cache

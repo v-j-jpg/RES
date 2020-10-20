@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\RES\RES\obj\Debug\RES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RES\RES\bin\Debug\RES.exe.config
+C:\Users\Lenovo\source\repos\RES\RES\bin\Debug\RES.exe
+C:\Users\Lenovo\source\repos\RES\RES\bin\Debug\RES.pdb
+C:\Users\Lenovo\source\repos\RES\RES\obj\Debug\RES.exe
+C:\Users\Lenovo\source\repos\RES\RES\obj\Debug\RES.pdb
+C:\Users\Lenovo\source\repos\RES\RES\obj\Debug\RES.csprojAssemblyReference.cache
